@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trainers on Private clouds, microservices, DevOps</title>
-    <link>http://ecostudy.pro/trainers/</link>
+    <link>https://ecostudy.pro/trainers/</link>
     <description>Recent content in Trainers on Private clouds, microservices, DevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     
-	<atom:link href="http://ecostudy.pro/trainers/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ecostudy.pro/trainers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Максим Гореликов</title>
-      <link>http://ecostudy.pro/trainers/trainer1/</link>
+      <link>https://ecostudy.pro/trainers/trainer1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ecostudy.pro/trainers/trainer1/</guid>
+      <guid>https://ecostudy.pro/trainers/trainer1/</guid>
       <description>Максим Гореликов В основном использует экосистему Spring и Netflix, но пробует всё, что найдёт хорошего на GitHub. Экспериментирует с реактивными подходами, несколько экспериментов успешно дожили до продакшна. Хочет понимать не только свои приложения, но и всё, что вокруг них, поэтому работает со всей инфраструктурой (логи, CI/CD, оркестрация). В общем, DevOps — наше все.&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Кирилл Толкачев</title>
-      <link>http://ecostudy.pro/trainers/trainer2/</link>
+      <link>https://ecostudy.pro/trainers/trainer2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ecostudy.pro/trainers/trainer2/</guid>
+      <guid>https://ecostudy.pro/trainers/trainer2/</guid>
       <description>Кирилл Толкачев Разрабатывает различные банковские API. Формирует принципы и наборы инструментов для работы с микросервисной архитектурой. Большой поклонник Groovy, Gradle, Spring и стека технологий Netflix. Постоянный резидент подкаста «Разбор Полётов». Методологию DevOps знает не понаслышке и имеет почти двухлетний опыт её применения.</description>
     </item>
     

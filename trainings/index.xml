@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trainings on Private clouds, microservices, DevOps</title>
-    <link>http://ecostudy.pro/trainings/</link>
+    <link>https://ecostudy.pro/trainings/</link>
     <description>Recent content in Trainings on Private clouds, microservices, DevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     
-	<atom:link href="http://ecostudy.pro/trainings/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ecostudy.pro/trainings/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Облака без &#34;воды&#34;</title>
-      <link>http://ecostudy.pro/trainings/training1/</link>
+      <link>https://ecostudy.pro/trainings/training1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ecostudy.pro/trainings/training1/</guid>
+      <guid>https://ecostudy.pro/trainings/training1/</guid>
       <description>Как сделать облака без &amp;ldquo;воды&amp;rdquo; Тренинг по инфраструктуре облачных решений для разработчиков.
 В результате тренинга сложится понимание о:
  Зачем нужны облачные технологии вашей компании С помощью каких инструментов и технологий можно можно самому создать свой кластер-облако Как все это работает от начала и до конца Какие плюшки или проблемы принесут различные платформы Как настраивать, обновлять, тестировать и следить за всем этим  Программа:
@@ -24,10 +24,10 @@
     
     <item>
       <title>Про микро-сервисы</title>
-      <link>http://ecostudy.pro/trainings/training2/</link>
+      <link>https://ecostudy.pro/trainings/training2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ecostudy.pro/trainings/training2/</guid>
+      <guid>https://ecostudy.pro/trainings/training2/</guid>
       <description>Микросервисы - через тернии в пропасть к звездам Тренинг по микросервисной архитектуре и сопутствующим технологиям для разработчиков.
 В результате тренинга сложится понимание:
  Что такое микросервисы, когда они полезны, а когда вредны Можно ли разрабатывать микросервисы без волшебных трёх букв (DDD) Spring Boot - что ты такое? 12 factor apps, как на это ложится Spring Cloud и какие есть варианты Наплодили сервисов? Как теперь за этим следить и как обновлять Reactive - осмысленный выбор или головоломка для долгих вечеров Что сейчас модно вместо REST - gRPC, rocket, а стоит ли?</description>
@@ -35,10 +35,10 @@
     
     <item>
       <title>Когда микросервисы ломаются</title>
-      <link>http://ecostudy.pro/trainings/training3/</link>
+      <link>https://ecostudy.pro/trainings/training3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://ecostudy.pro/trainings/training3/</guid>
+      <guid>https://ecostudy.pro/trainings/training3/</guid>
       <description>Как не “витать в облаках” когда ваши микросервисы ломаются Тренинг по микросервисной архитектуре и инфраструктуре облачных решений для тестировщиков.
 В результате тренинга сложится понимание о том:
  Что такое Docker и как с ним работать. Как работают такие платформы, как Mesos и Kubernetes, на высоком уровне, достаточном для разбора нештатных ситуаций Как работать с системами развертывания инфраструктуры, например, с такими как Ansible Как собираются логи в подобных системах, что, где и как посмотреть(от Docker до ELK) Какие методы и инструменты существуют для мониторинга подобных систем, как они устроены, как с ними работать (Prometheus/Grafana) Как тестировщик может использовать облачные платформы для своих нужд Что такое микросервисы и какие с ними могут возникать проблемы Что такое 12 factor apps, что нужно микросервису для счастливой жизни и как это может быть полезно тестировщику Какой путь проходит запрос в системе и какие настройки можно сделать на различных этапах Service Discovery и Open Tracing - как отследить на каком шаге сломалась обработка запроса Как останавливают распространение ошибок в системе (Hystrix и подобные ему инструменты и подходы) Какие приключения в микросервисной системе вас ждут и как все это осмыслено протестировать (подумаем вместе :))  Программа:</description>
