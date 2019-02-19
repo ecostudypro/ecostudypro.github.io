@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.ecostudy.pro/trainers/trainer1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ecostudy.pro/trainings/training1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ecostudy.pro/trainers/trainer2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ecostudy.pro/trainings/training2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ecostudy.pro/trainings/training3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ecostudy.pro/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ecostudy.pro/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ecostudy.pro/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ecostudy.pro/trainers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ecostudy.pro/trainings/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
